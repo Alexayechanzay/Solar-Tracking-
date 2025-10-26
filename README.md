@@ -1,1 +1,1 @@
-# Solar-Tracking-
+# Solar-Tracking Project
