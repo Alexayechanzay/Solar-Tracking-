@@ -10,6 +10,7 @@ void setup()
 {
   pinMode(LED, OUTPUT);// initialize digital pin LED as an output.
 }
+
 void loop() // the loop function runs over and over again forever
 {
   digitalWrite(LED, HIGH);   // turn the LED on (HIGH is the voltage level
