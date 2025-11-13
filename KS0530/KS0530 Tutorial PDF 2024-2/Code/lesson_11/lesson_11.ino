@@ -16,8 +16,8 @@ dht11 DHT;
 #define DHT11_PIN 7  //define the DHT11 as the digital pin 7
 
 #include <Servo.h>
-Servo lr_servo;//define the name of the servo rotating right and left
-Servo ud_servo;//efine the name of the servo rotating upwards and downwards
+Servo lr_servo;//define the name of the servo rotating right and left (Horizontal)
+Servo ud_servo;//define the name of the servo rotating upwards and downwards (Vertical)
 
 const byte interruptPin = 2;  //the pin of button;the corruption is disrupted
 
