@@ -1,6 +1,8 @@
 # Dual-Axis Solar Tracking System ☀️
 
-Awarded **"Best Science Project (Senior Level)"** at the Lumbini Academy Science Fair (November 2025).
+![Certificate of award](SciAward2025.jpg)
+
+Awarded **"Best Science Project (High School Level)"** at the Lumbini Academy Science Fair (November 2025).
 
 ## 📌 Project Overview
 This project investigates the efficiency of solar energy capture by comparing a **Dual-Axis Tracking System** against a traditional stationary fixed-angle panel. By utilizing active sensors and motors, this system continuously adjusts the solar panel's position to maintain a perpendicular alignment with the sun, minimizing the incident angle and maximizing power output.
@@ -50,4 +52,4 @@ The data confirms that while fixed panels perform well during "Solar Noon," the 
 * Zue Yati Ko
 
 ---
-*Developed for the Lumbini Academy (Mandalay) Science Fair.*
+*Developed for The Lumbini Mandalay Science Fair Competition.*
